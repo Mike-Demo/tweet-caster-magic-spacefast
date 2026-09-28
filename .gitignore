@@ -36,3 +36,4 @@ src/.generated/
 
 # Lovable sandbox workspace directory
 .workspace/
+dist-spa

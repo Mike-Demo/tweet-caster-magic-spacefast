@@ -1,0 +1,1 @@
+{"$schema":"https://spacefast.com/schemas/sf.json","crons":[{"path":"/api/cron/auto-post","schedule":"hourly"}],"name":"crosspost","runtime":{"database":true,"fetch":true,"kind":"functions"}}
